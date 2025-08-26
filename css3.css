@@ -1,0 +1,81 @@
+.h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.h2{
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+}
+#one{
+    width: 100%;
+    height: 300px;
+    background-color: aqua;
+    background-image: url("./gallery.jpg");
+    background-size: 100% 100%;
+}
+#two{
+    width: 100%;
+    height: 300px;
+    background-color: brown;
+    margin-top: 20px;
+    background-image: url("./room6.jpg");
+}
+#three{
+    width: 100%;
+    height: 622px;
+    margin-left: 20px;
+
+}
+#four{
+    width: 100%;
+    height: 48%;
+    display: flex;
+}
+#mini{
+    width: 46%;
+    height: 100%;
+    background-color: aquamarine;
+    background-image: url("./gallery1.jpg");
+    background-size: 100% 100%;
+}
+#mini1{
+    width: 48%;
+    height: 100%;
+    background-color: burlywood;
+    margin-left: 30px;
+    background-image: url("./mess.jpg");
+    background-size: 100% 100%;
+}
+
+#five{
+    width: 100%;
+    height: 48%;
+    background-image: url("./Kitchen.jpg");
+    margin-top: 20px;
+    background-size: 100% 100%;
+}
+#one1{
+    background-color:darkblue;
+    color:white;
+    
+    justify-content: space-between 90px;
+    
+    
+}
+.fa{
+    color: white;
+}
+#one1{
+    border: 5px solid black;
+}
+.nav-item:hover{
+    background-color:rgb(169, 174, 177);
+    border-radius: 20px;
+}
+.navbar-brand {
+    font-display: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}

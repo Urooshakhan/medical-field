@@ -1,0 +1,30 @@
+#one1{
+    background-color: darkblue;
+    color: white;
+    border: 5px solid black;
+}
+.nav-item:hover{
+    background-color:rgb(169, 174, 177);
+    border-radius: 20px;
+}
+.bg2{
+    height: 400px;
+    background-image: url("./hostel2.jpg");
+    background-size: 100% 100%;
+}
+.img{
+    background-size: 100% 100%;
+    height: 500px;
+}
+.img2{
+    background-size: 100% 100%;
+    height: 500px;
+}
+.fa{
+    color: white;
+}
+.navbar-brand {
+    font-display: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
